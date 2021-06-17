@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "userName": "Serg",
+    "firstName": "Serhii",
+    "lastName": "Osipov",
+    "email": "se@gmail.com",
+    "type": "administrator"
+  },
+  {
+    "id": "2",
+    "userName": "Strelok",
+    "firstName": "Yurii",
+    "lastName": "Krugovoi",
+    "email": "yu@gmail.com",
+    "type": "driver"
+  }
+]

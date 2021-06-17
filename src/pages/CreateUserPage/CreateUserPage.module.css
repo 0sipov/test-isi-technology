@@ -1,0 +1,12 @@
+.tableWrapper {
+  width: 700px;
+  min-height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.CreateUserPageWrapper {
+  padding: 25px 50px 0 0;
+  display: flex;
+  justify-content: space-between;
+}

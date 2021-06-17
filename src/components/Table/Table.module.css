@@ -1,0 +1,16 @@
+.table {
+  width: 100%;
+  overflow: hidden;
+  border-collapse: collapse;
+  border-radius: 5px;
+  background-color: #fff;
+}
+.headerCell {
+  color: #a4a4b5;
+}
+.tableWrapper {
+  width: auto;
+  min-height: 500px;
+  background-color: #fff;
+  border-radius: 5px;
+}

@@ -1,0 +1,13 @@
+.cell {
+  padding: 10px 20px;
+  color: #555868;
+  text-align: center;
+  font-size: 14px;
+}
+.row {
+  background-color: #f4f5f8;
+  border-top: solid 2px white;
+}
+.row:hover {
+  cursor: pointer;
+}
